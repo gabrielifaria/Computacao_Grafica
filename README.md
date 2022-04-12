@@ -1,2 +1,2 @@
 # Computacao_Grafica
-Códigos das aulas de Computação Gráfica
+Códigos feitos nas aulas de Computação Gráfica
